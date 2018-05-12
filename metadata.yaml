@@ -1,0 +1,46 @@
+_repo: Peasant-Tales-of-Russia_32755
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Harbour, Jennie
+    birthdate: 1893
+    deathdate: 1959
+    gutenberg_agent_id: '26799'
+    url: http://www.gutenberg.org/2009/agents/26799
+  translator:
+    agent_name: Field, Claud
+    alias: Field, Claud Herbert Alwyn
+    birthdate: 1863
+    deathdate: 1941
+    gutenberg_agent_id: '26394'
+    url: http://www.gutenberg.org/2009/agents/26394
+covers:
+- cover_type: archival
+  image_path: 32755-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Nemirovich-Danchenko, Vasilii Ivanovich
+    aliases:
+    - Nemirovich-Danchenko, V. I. (Vasilii Ivanovich)
+    - Немирович-Данченко, Василий Иванович
+    birthdate: 1848
+    deathdate: 1936
+    gutenberg_agent_id: '36024'
+    url: http://www.gutenberg.org/2009/agents/36024
+    wikipedia: http://en.wikipedia.org/wiki/Vasily_Nemirovich-Danchenko
+description: ''
+gutenberg_issued: '2010-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32755'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Russia'
+- !lcc 'PG'
+tableOfContents: The deserted mine -- Mahmoud's family -- A misunderstanding -- The
+  luck of Ivan the Forgetful.
+title: Peasant Tales of Russia
+url: http://www.gutenberg.org/ebooks/32755
